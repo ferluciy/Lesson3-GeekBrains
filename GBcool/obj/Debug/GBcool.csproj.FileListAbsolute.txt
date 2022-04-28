@@ -10,3 +10,9 @@ D:\Учеба Юнити\Проекты\Lesson3\GBcool\obj\Debug\GBcool.csproj.A
 D:\Учеба Юнити\Проекты\Lesson3\GBcool\obj\Debug\GBcool.csproj.CoreCompileInputs.cache
 D:\Учеба Юнити\Проекты\Lesson3\GBcool\obj\Debug\GBcool.dll
 D:\Учеба Юнити\Проекты\Lesson3\GBcool\obj\Debug\GBcool.pdb
+D:\Учеба Юнити\Проекты\Lesson3-GeekBrains\GBcool\bin\Debug\GBcool.dll
+D:\Учеба Юнити\Проекты\Lesson3-GeekBrains\GBcool\bin\Debug\GBcool.pdb
+D:\Учеба Юнити\Проекты\Lesson3-GeekBrains\GBcool\obj\Debug\GBcool.csproj.AssemblyReference.cache
+D:\Учеба Юнити\Проекты\Lesson3-GeekBrains\GBcool\obj\Debug\GBcool.csproj.CoreCompileInputs.cache
+D:\Учеба Юнити\Проекты\Lesson3-GeekBrains\GBcool\obj\Debug\GBcool.dll
+D:\Учеба Юнити\Проекты\Lesson3-GeekBrains\GBcool\obj\Debug\GBcool.pdb

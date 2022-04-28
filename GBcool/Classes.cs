@@ -113,7 +113,7 @@ namespace GBcool
             return DrobDef;
         }
     }
-        public class ComplexClass
+        public class ComplexClass //класс для комплексных чисел
     {
         double re;
         double im;
@@ -148,7 +148,7 @@ namespace GBcool
         {
             return re + (im > 0 ? "+" : "") + im + "i";
         }
-    } //класс для комплексных чисел
+    } 
     public class Classes
     {
         public struct Complex
@@ -270,5 +270,5 @@ namespace GBcool
             }
         }//рекурсивный метод, который считает сумму чисел от a до b включительно.
 
-    }//прочее + структрадля комплексных чисел
+    }//прочее + структра для комплексных чисел
 }

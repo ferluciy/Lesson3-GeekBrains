@@ -9,3 +9,14 @@ D:\Учеба Юнити\Проекты\Lesson3\Lesson3\obj\Debug\Lesson3.pdb
 D:\Учеба Юнити\Проекты\Lesson3\Lesson3\bin\Debug\GBcool.dll
 D:\Учеба Юнити\Проекты\Lesson3\Lesson3\bin\Debug\GBcool.pdb
 D:\Учеба Юнити\Проекты\Lesson3\Lesson3\obj\Debug\Lesson3.csproj.CopyComplete
+D:\Учеба Юнити\Проекты\Lesson3-GeekBrains\Lesson3\bin\Debug\Lesson3.exe.config
+D:\Учеба Юнити\Проекты\Lesson3-GeekBrains\Lesson3\bin\Debug\Lesson3.exe
+D:\Учеба Юнити\Проекты\Lesson3-GeekBrains\Lesson3\bin\Debug\Lesson3.pdb
+D:\Учеба Юнити\Проекты\Lesson3-GeekBrains\Lesson3\bin\Debug\GBcool.dll
+D:\Учеба Юнити\Проекты\Lesson3-GeekBrains\Lesson3\bin\Debug\GBcool.pdb
+D:\Учеба Юнити\Проекты\Lesson3-GeekBrains\Lesson3\obj\Debug\Lesson3.csproj.AssemblyReference.cache
+D:\Учеба Юнити\Проекты\Lesson3-GeekBrains\Lesson3\obj\Debug\Lesson3.csproj.SuggestedBindingRedirects.cache
+D:\Учеба Юнити\Проекты\Lesson3-GeekBrains\Lesson3\obj\Debug\Lesson3.csproj.CoreCompileInputs.cache
+D:\Учеба Юнити\Проекты\Lesson3-GeekBrains\Lesson3\obj\Debug\Lesson3.csproj.CopyComplete
+D:\Учеба Юнити\Проекты\Lesson3-GeekBrains\Lesson3\obj\Debug\Lesson3.exe
+D:\Учеба Юнити\Проекты\Lesson3-GeekBrains\Lesson3\obj\Debug\Lesson3.pdb
